@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Store Boxes", "06. Store Boxes\06. Store Boxes.csproj", "{00F7D1B4-1435-4C5B-8096-F3EECFE2B7F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Vehicle Catalogue", "07. Vehicle Catalogue\07. Vehicle Catalogue.csproj", "{DE87D715-ADFA-4D72-ACFA-C2018AF530F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00F7D1B4-1435-4C5B-8096-F3EECFE2B7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F7D1B4-1435-4C5B-8096-F3EECFE2B7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F7D1B4-1435-4C5B-8096-F3EECFE2B7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F7D1B4-1435-4C5B-8096-F3EECFE2B7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE87D715-ADFA-4D72-ACFA-C2018AF530F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE87D715-ADFA-4D72-ACFA-C2018AF530F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE87D715-ADFA-4D72-ACFA-C2018AF530F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE87D715-ADFA-4D72-ACFA-C2018AF530F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EC17B9B-5CFA-4A73-A059-CB741B58B873}
+	EndGlobalSection
+EndGlobal
