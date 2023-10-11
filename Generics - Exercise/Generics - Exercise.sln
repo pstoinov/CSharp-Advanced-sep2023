@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoxOfString", "BoxOfString\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoxOfInteger", "BoxOfInteger\BoxOfInteger.csproj", "{EB4A14C2-1A8F-4B67-AF86-524353C32735}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericSwapMethodStrings", "GenericSwapMethodStrings\GenericSwapMethodStrings.csproj", "{309BD377-E521-4ECA-A1DD-61036A53F4D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericSwapMethodStrings", "GenericSwapMethodStrings\GenericSwapMethodStrings.csproj", "{309BD377-E521-4ECA-A1DD-61036A53F4D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "Tuple\Tuple.csproj", "{5D14DFFB-2D7E-4701-9354-7B46BB60E3CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threeuple", "Threeuple\Threeuple.csproj", "{4667CB38-1F5C-46D8-AF59-09180F43173A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{309BD377-E521-4ECA-A1DD-61036A53F4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{309BD377-E521-4ECA-A1DD-61036A53F4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{309BD377-E521-4ECA-A1DD-61036A53F4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D14DFFB-2D7E-4701-9354-7B46BB60E3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D14DFFB-2D7E-4701-9354-7B46BB60E3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D14DFFB-2D7E-4701-9354-7B46BB60E3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D14DFFB-2D7E-4701-9354-7B46BB60E3CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4667CB38-1F5C-46D8-AF59-09180F43173A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4667CB38-1F5C-46D8-AF59-09180F43173A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4667CB38-1F5C-46D8-AF59-09180F43173A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4667CB38-1F5C-46D8-AF59-09180F43173A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

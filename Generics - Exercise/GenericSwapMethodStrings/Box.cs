@@ -44,7 +44,7 @@ namespace GenericSwapMethodStrings
             {
                 sb.AppendLine($"{typeof(T)}: {item}");
             }
-            return sb.ToString();
+            return sb.ToString().TrimEnd();
         }
     }
 }
